@@ -1,0 +1,37 @@
+/** {
+	padding: 0;
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+}*/
+
+#container {
+	width: 980px;
+	margin: 0 auto;
+}
+
+#gold {
+	margin: 20px 0;
+}
+
+.building {
+	border: 1px solid gray;
+	width: 220px;
+	height: 180px;
+	margin: 30px 10px;
+	text-align: center;
+	display: inline-block;
+}
+
+.log {
+	padding: 20px;
+	border: 1px solid gray;
+	margin-top: 20px;
+}
+
+.green {
+	color: green;
+}
+
+.red {
+	color: red;
+}
